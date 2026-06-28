@@ -36,6 +36,7 @@ The examples focus on reporting, operational performance, customer insights, and
 ### 5. Which business units require immediate attention?
 
 *(Coming soon)*
+
 ---
 
 ## SQL Skills Demonstrated
